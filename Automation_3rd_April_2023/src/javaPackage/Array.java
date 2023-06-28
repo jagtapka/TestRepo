@@ -11,6 +11,8 @@ public class Array {
 		for (int i=0;i<j; i++) {
 			System.out.println(a[i]);
 			System.out.println("Hi  kalpana");
+			
+			System.out.println("Hi kalpana jagtap");
 		}
 	}
 
